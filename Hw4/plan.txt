@@ -1,0 +1,9 @@
+Cuong Ngo;Hiking;Mt.Hood with friends;Portland;4;Yes
+Cuong Ngo;Baseball;Practice for MLB;NewYork;5;No
+Cuong Ngo;Fishing;At the Columbia river;Portland;3;Yes
+Cuong Ngo;Wedding;Cousin's wedding;Tampa;2;Yes
+Cuong Ngo;PaintBall;Hang out with friends;San Diego;3;Yes
+Cuong Ngo;BootCamp;Get stronger;Houston;5;No
+Cuong Ngo;Biking;Excercise and improve heart rate;Seattle;3;Yes
+Cuong Ngo;Soccer;Practicing for MLS game;Los Angeles;4;No
+Cuong Ngo;Traveling;To the East Coast;NewYork;5;Yes

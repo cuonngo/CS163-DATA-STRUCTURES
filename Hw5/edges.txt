@@ -1,0 +1,10 @@
+0;1;SE Division St;
+1;2;I-205 N;
+2;3;I-205 N;
+3;4;I-84 W;
+4;5;I-5 S;
+5;6;SE Morrision Bridge;
+0;7;SE 174th Ave;
+7;2;SE Stark St;
+2;8;SE Stark St;
+8;5;SE Morrision Bridge;

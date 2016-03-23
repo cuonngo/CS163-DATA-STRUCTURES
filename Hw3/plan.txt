@@ -1,0 +1,5 @@
+Cuong Ngo;Hiking;Hike at the Mt.Hood;Portland;4;Yes
+Cuong Ngo;Party;The end of the world;Portland;1;Yes
+Cuong Ngo;Fishing;At the columbia river;Portland;3;Yes
+Cuong Ngo;Wedding;Cousin's wedding;Tampa;2;Yes
+Cuong Ngo;Paint Ball;shooting paint ball;San Diego;3;Yes
